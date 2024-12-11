@@ -2,6 +2,11 @@
 
 Visualizer is a tool that allows you to visualize the data of a pcap file in a colorized way.
 
+# Example
+
+![example](./example.png)
+
+
 ## Usage
 
 ```bash
